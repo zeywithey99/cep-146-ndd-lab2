@@ -1,6 +1,6 @@
 # My Course Portfolio
  
-Welcome to my academic portfolio for (put your course name and section here)!
+Welcome to my academic portfolio for CEP-146!
  
 ## About Me
 - Name: zey
